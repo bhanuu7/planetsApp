@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.planetItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.font {
+  font-size: 12px;
+}
+.image {
+  height: 30vh;
+  width: 40vh;
+}
